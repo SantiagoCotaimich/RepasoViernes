@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CHkMrdXrQ2WjZN4GujxsTUSPm+DDzylnfBaflEZeBcA=",
+  "Source": "EnviosWebApi",
+  "BasePath": "_content/EnviosWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
